@@ -1,0 +1,144 @@
+#home{
+  border-style:solid;
+  border-color:black;
+  height: 1400px;
+  margin:10px;
+}
+#combine{
+  border-style:white;
+  margin-top: 50px;
+  margin-left:50px;
+  margin-right:50px;
+  color:white;
+  height:500px;
+  overflow:auto;
+}
+#first{
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-left: 25px;
+  padding-bottom:50px;
+  background-color:rgb(173,216,230);
+  color:rgb(100,149,237);
+  margin-top:50px;
+  margin-left:35px;
+  margin-right: 35px;
+  font-style:italic;
+  text-indent:50px;
+  word-spacing:20px;
+  font-size:70px
+  
+  font-stretch: ultra-expanded;
+  
+}
+#second {
+  border: 2px solid maroon;
+  border-radius: 15px;
+  margin-top: 50px;
+  margin-left: 45px;
+  margin-right: 35px;
+  height: 400px;
+  background-color: rgba(8, 24, 17, 0.1);
+  
+}
+#third {
+  display: block;
+  float: left;
+  max-height: 100%;
+  max-width: 100%;
+  padding: 10px;
+  padding-left: 50px;
+  padding-bottom: 15px;
+  margin-top:15px;
+  margin-right:30px;
+}
+#heads{
+  color:brown;
+  font-family:cursive;
+}
+#car1{
+  color:black;
+}
+#fifth{
+  border: 2px solid maroon;
+  border-radius: 15px;
+  margin-top: 50px;
+  margin-left: 45px;
+  margin-right: 35px;
+  height: 400px;
+  background-color: rgba(8, 24, 17, 0.1);
+  
+
+}
+#heads2{
+  color:brown;
+  font-family:cursive;
+}
+#fourth{
+  display: block;
+  float: left;
+  max-height: 100%;
+  max-width: 100%;
+  padding: 10px;
+  padding-left: 50px;
+  padding-bottom: 15px;
+  margin-top:15px;
+  margin-right:35px;
+}
+#car2{
+  color:black;
+}
+#combine1{
+  
+  border-style:white;
+  margin-top: 50px;
+  margin-left:50px;
+  margin-right:50px;
+  color:white;
+  height:340px;
+  overflow:auto;
+
+
+}
+#combine2{
+  border-style:white;
+  margin-top: 50px;
+  margin-left:50px;
+  margin-right:50px;
+  color:white;
+  height:340px;
+  overflow:auto;
+
+}
+#sixth{
+  border: 2px solid maroon;
+  border-radius: 15px;
+  margin-top: 50px;
+  margin-left: 45px;
+  margin-right: 35px;
+  padding-right: 65px;
+  height: 400px;
+  background-color: rgba(8, 24, 17, 0.1);
+  
+
+}
+#seventh{
+  display: block;
+  float: left;
+  max-height: 100%;
+  max-width: 100%;
+  padding: 10px;
+  padding-left: 50px;
+  padding-bottom: 15px;
+  margin-top:15px;
+  margin-right:35px;
+
+}
+#heads3{
+  color:brown;
+  font-family:cursive;
+}
+#car3{
+  color:black;
+
+}
